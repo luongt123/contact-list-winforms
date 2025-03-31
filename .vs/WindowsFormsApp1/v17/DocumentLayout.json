@@ -1,21 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\contact-list-winforms\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\contact-list-winforms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F8FB688-2CA8-45E3-9E7E-B7FC77292D6F}|WindowsFormsApp1\\ContactList.csproj|c:\\users\\admin\\source\\repos\\contact-list-winforms\\windowsformsapp1\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6F8FB688-2CA8-45E3-9E7E-B7FC77292D6F}|WindowsFormsApp1\\ContactList.csproj|solutionrelative:windowsformsapp1\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F8FB688-2CA8-45E3-9E7E-B7FC77292D6F}|WindowsFormsApp1\\ContactList.csproj|C:\\Users\\ADMIN\\source\\repos\\contact-list-winforms\\windowsformsapp1\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F8FB688-2CA8-45E3-9E7E-B7FC77292D6F}|WindowsFormsApp1\\ContactList.csproj|solutionrelative:windowsformsapp1\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F8FB688-2CA8-45E3-9E7E-B7FC77292D6F}|WindowsFormsApp1\\ContactList.csproj|C:\\Users\\ADMIN\\source\\repos\\contact-list-winforms\\windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F8FB688-2CA8-45E3-9E7E-B7FC77292D6F}|WindowsFormsApp1\\ContactList.csproj|C:\\Users\\Admin\\contact-list-winforms\\windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F8FB688-2CA8-45E3-9E7E-B7FC77292D6F}|WindowsFormsApp1\\ContactList.csproj|solutionrelative:windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F8FB688-2CA8-45E3-9E7E-B7FC77292D6F}|WindowsFormsApp1\\ContactList.csproj|C:\\Users\\ADMIN\\source\\repos\\contact-list-winforms\\windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6F8FB688-2CA8-45E3-9E7E-B7FC77292D6F}|WindowsFormsApp1\\ContactList.csproj|C:\\Users\\Admin\\contact-list-winforms\\windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6F8FB688-2CA8-45E3-9E7E-B7FC77292D6F}|WindowsFormsApp1\\ContactList.csproj|solutionrelative:windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,59 +18,32 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "mainform.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\contact-list-winforms\\WindowsFormsApp1\\mainform.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\contact-list-winforms\\WindowsFormsApp1\\mainform.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\mainform.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\contact-list-winforms\\WindowsFormsApp1\\mainform.cs",
+              "ToolTip": "C:\\Users\\Admin\\contact-list-winforms\\WindowsFormsApp1\\mainform.cs",
               "RelativeToolTip": "WindowsFormsApp1\\mainform.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAewBgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAewBUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T11:47:09.315Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddContactForm.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\contact-list-winforms\\WindowsFormsApp1\\AddContactForm.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\AddContactForm.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\contact-list-winforms\\WindowsFormsApp1\\AddContactForm.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\AddContactForm.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAIAwwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T11:43:02.378Z",
+              "WhenOpened": "2025-03-31T11:47:09.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddContactForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\contact-list-winforms\\WindowsFormsApp1\\AddContactForm.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\AddContactForm.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\contact-list-winforms\\WindowsFormsApp1\\AddContactForm.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp1\\AddContactForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T11:40:28.852Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "mainform.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\contact-list-winforms\\WindowsFormsApp1\\mainform.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\contact-list-winforms\\WindowsFormsApp1\\mainform.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\mainform.cs",
               "ToolTip": "C:\\Users\\Admin\\contact-list-winforms\\WindowsFormsApp1\\mainform.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\contact-list-winforms\\WindowsFormsApp1\\mainform.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\mainform.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T07:26:28.746Z"
+              "WhenOpened": "2025-03-31T07:26:28.746Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
